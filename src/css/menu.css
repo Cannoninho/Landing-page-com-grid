@@ -103,9 +103,9 @@
         padding: 20px;
     }
 
-    .heaver nav ul li {
+    .header nav ul a {
         text-align: center;
         padding: 20px;
         display: block;
     }
-}
+} 
